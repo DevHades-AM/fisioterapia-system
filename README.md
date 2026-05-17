@@ -1,14 +1,11 @@
-Sistema de Gestión - Centro de Fisioterapia
+## Sistema de Gestión - Centro de Fisioterapia
 
 Sistema de escritorio desarrollado en Java para la gestión integral de un centro de fisioterapia real.
 
-Desarrollado por
-Hades - Angel Muriel © 2026
-
-Descripción
+## Descripción
 Sistema funcional utilizado en un centro de fisioterapia real. Permite gestionar pacientes, asistencias, tratamientos y patologias de forma centralizada.
 
-Funcionalidades
+## Funcionalidades
 - Registro y gestión de pacientes
 - Registro y gestión de asistencias
 - Registro y gestión de tratamientos
@@ -17,7 +14,7 @@ Funcionalidades
 - Generación de PDF de asistencias
 - Generación de PDF con información del paciente
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 - Java (NetBeans)
 - MySQL
 - Conector JDBC mysql-connector-java
@@ -31,3 +28,6 @@ Funcional - En uso en centro de fisioterapia y kiniseologia
 <img width="1919" height="1007" alt="image" src="https://github.com/user-attachments/assets/e89edf98-9921-4475-a690-548592667d74" />
 
 <img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/5c0cd4dd-4bd6-4a79-8919-1b1d69d0bb78" />
+
+## Desarrollado por
+Hades - Angel Muriel © 2026
